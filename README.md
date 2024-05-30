@@ -15,6 +15,9 @@ Crie uma RESTful API fake que retorne uma lista de Alunos onde cada instancia te
 Crie uma pagina que retorne a lista de Alunos que sua API fake está retornando
 - Retorne esses dados organizados em uma tabela
 
+### Exercício 03:
+Crie um formulário que adicione novos alunos nessa API fake e a lista (a tabela) atualize automaticamente.
+- A mesma página carrega a lista de alunos e tem o formulário para salvar novos alunos.
 
 
 
